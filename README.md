@@ -12,13 +12,13 @@ A tutorial for MNIST handwritten digit classification using sklearn, PyTorch and
 
 # Requirements
 Code tested on following environments, other version should also work:
-* linux system (ubuntu 16.04) 
-* python 3.6.3
-* numpy 1.13.3
-* matplotlib 2.1.0
-* sklearn 0.19.1
-* pytorch 0.4.1
-* keras 2.1.2
+* Windows 10 Pro 21H1 
+* python 3.8.8
+* numpy 1.19.9
+* matplotlib 3.3.4
+* sklearn 0.24.1
+* pytorch 1.6.0
+* keras 2.4.3
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
@@ -35,4 +35,7 @@ Please read [HEAR](EE369.md).
 |  Q4 |         92.57        |        90.80        |
 |  Q5 |         98.13        |        97.92        |
 
-Copyright \copyright \ 2019-2021 James Zhu \uppercase\expandafter{\romannumeral3} All Rights Reserved
+# Reference
+https://github.com/JamesZhutheThird/Dive-into-DL-PyTorch
+
+Copyright © 2019-2021 James Zhu Ⅲ All Rights Reserved
