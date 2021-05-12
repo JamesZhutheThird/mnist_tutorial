@@ -23,7 +23,7 @@ Code tested on following environments, other version should also work:
 # For students from SJTU
 Please read [HEAR](EE369.md).
 
-# Results
+# Results(sklearn & pytorch)
 
 |     | Training accuracy(%) | Testing accuracy(%) |
 |:---:|:--------------------:|:-------------------:|
