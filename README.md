@@ -18,7 +18,7 @@ Code tested on following environments, other version should also work:
 * matplotlib 3.3.4
 * sklearn 0.24.1
 * pytorch 1.6.0
-~~* keras 2.4.3~~
+* ~~keras 2.4.3~~
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
