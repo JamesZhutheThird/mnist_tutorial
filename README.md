@@ -22,3 +22,17 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Results
+
+|     | Training accuracy(%) | Testing accuracy(%) |
+|:---:|:--------------------:|:-------------------:|
+|  Q1 |         97.55        |        89.00        |
+| Q1' |         97.62        |        89.20        |
+|  Q2 |         81.35        |        82.50        |
+|  Q3 |         97.83        |        88.40        |
+| Q3' |         97.85        |        88.50        |
+|  Q4 |         92.57        |        90.80        |
+|  Q5 |         98.13        |        97.92        |
+
+Copyright \copyright \ 2019-2021 James Zhu \uppercase\expandafter{\romannumeral3} All Rights Reserved
