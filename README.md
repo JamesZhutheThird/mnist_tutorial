@@ -41,7 +41,7 @@ Please read [HEAR](EE369.md).
 其中Q1'与Q3'为修改参数以避免报错之后的结果。
 
 # Reference
-https://github.com/JamesZhutheThird/Dive-into-DL-PyTorch
+https://github.com/ShusenTang/Dive-into-DL-PyTorch
 
 
 
