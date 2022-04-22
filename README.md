@@ -1,3 +1,6 @@
+# LeNet
+The numpy implement of LeNet can be found in https://github.com/JamesZhutheThird/LeNet
+
 # mnist_tutorial
 A tutorial for MNIST handwritten digit classification using sklearn, PyTorch and Keras.
 
